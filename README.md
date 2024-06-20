@@ -78,11 +78,6 @@ To run this project locally, follow these steps:
     cd AI-Biometric
     \`\`\`
 
-2. Install the required packages:
-    \`\`\`bash
-    pip install -r requirements.txt
-    \`\`\`
-
 ### Data Preparation
 Ensure you have the necessary datasets. You may need to download the Yale face dataset or similar biometric datasets and place them in the appropriate directory.
 
