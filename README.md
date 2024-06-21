@@ -98,5 +98,4 @@ For a detailed explanation of the methods, experiments, and results, please refe
 
 ### Contributors
 - Adedamola Olusunmade
-- Seyon Amosu
 - Dennis Ufomadu
