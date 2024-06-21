@@ -95,3 +95,8 @@ You can adjust the parameters and settings in the configuration files or directl
 For a detailed explanation of the methods, experiments, and results, please refer to the full reports:
 - [AI Biometric Report 1]
 - [AI Biometric Report 2]
+
+### Contributors
+- Adedamola Olusunmade
+- Seyon Amosu
+- Dennis Ufomadu
